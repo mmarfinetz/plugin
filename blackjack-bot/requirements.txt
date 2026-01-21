@@ -1,0 +1,19 @@
+# Blackjack Bot Dependencies
+# Screen capture and image processing
+mss>=9.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pillow>=10.0.0
+
+# Automation
+pyautogui>=0.9.54
+
+# Logging
+structlog>=23.1.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Type checking (optional dev dependency)
+mypy>=1.5.0
