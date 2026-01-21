@@ -1,0 +1,42 @@
+{
+  "display_scale": 1.0,
+  "game_name": "Example Blackjack Game",
+  "regions": {
+    "player_cards": {
+      "x": 400,
+      "y": 450,
+      "width": 300,
+      "height": 120
+    },
+    "dealer_cards": {
+      "x": 400,
+      "y": 150,
+      "width": 300,
+      "height": 120
+    },
+    "hit_button": {
+      "x": 300,
+      "y": 600,
+      "width": 100,
+      "height": 50
+    },
+    "stand_button": {
+      "x": 420,
+      "y": 600,
+      "width": 100,
+      "height": 50
+    },
+    "double_button": {
+      "x": 540,
+      "y": 600,
+      "width": 100,
+      "height": 50
+    },
+    "split_button": {
+      "x": 660,
+      "y": 600,
+      "width": 100,
+      "height": 50
+    }
+  }
+}
